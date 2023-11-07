@@ -1,0 +1,31 @@
+name,Company_name,price,previous_close,open,change,change_percent,date
+LI,Li Auto Inc. (LI),39.21,36.36,39.28,+2.85,(+7.84%),2023-11-06_18-58
+NVDA,NVIDIA Corporation (NVDA),456.55,450.05,452.85,+6.50,(+1.44%),2023-11-06_18-59
+XRP-USD,XRP USD (XRP-USD),0.719231,0.661127,0.661127,+0.075091,(+11.66%),2023-11-06_18-59
+NQ=F,Nasdaq 100 Dec 23 (NQ=F),"15,214.25",N/A,2023-12-15,+35.50,(+0.23%),2023-11-06_18-59
+TSLA,"Tesla, Inc. (TSLA)",219.70,219.96,223.98,-0.26,(-0.12%),2023-11-06_19-00
+RYAAY,Ryanair Holdings plc (RYAAY),98.74,94.29,102.99,+4.45,(+4.72%),2023-11-06_19-00
+BRK-B,Berkshire Hathaway Inc. (BRK-B),346.24,351.81,354.03,-5.57,(-1.58%),2023-11-06_19-00
+OGI,Organigram Holdings Inc. (OGI),1.5232,1.1600,1.5200,+0.3632,(+31.31%),2023-11-06_19-00
+ES=F,E-Mini S&P 500 Dec 23 (ES=F),"4,380.25",N/A,2023-12-15,+4.25,(+0.10%),2023-11-06_19-01
+DISH,DISH Network Corporation (DISH),4.2350,5.4900,4.7000,-1.2550,(-22.86%),2023-11-06_19-01
+CREV,Carbon Revolution Public Limited Ordinary Shares (CREV),164.00,29.32,197.99,+134.68,(+459.35%),2023-11-06_19-01
+YM=F,Mini Dow Jones Indus.-$5 Dec 23 (YM=F),"34,144.00",N/A,2023-12-15,+7.00,(+0.02%),2023-11-06_19-01
+BNTX,BioNTech SE (BNTX),100.93,95.78,101.28,+5.15,(+5.38%),2023-11-06_19-02
+WE,WeWork Inc. (WE),0.8355,0.8355,1.1500,0.0000,(0.00%),2023-11-06_19-02
+BMBL,Bumble Inc. (BMBL),12.69,13.67,12.62,-0.98,(-7.15%),2023-11-06_19-02
+FRPT,"Freshpet, Inc. (FRPT)",68.28,58.25,71.07,+10.03,(+17.22%),2023-11-06_19-03
+MLTX,MoonLake Immunotherapeutics (MLTX),40.34,51.28,36.55,-10.94,(-21.33%),2023-11-06_19-03
+BVH,Bluegreen Vacations Holding Corporation (BVH),73.10,35.52,72.98,+37.58,(+105.80%),2023-11-06_19-03
+VRTX,Vertex Pharmaceuticals Incorporated (VRTX),385.51,376.20,379.27,+9.31,(+2.47%),2023-11-06_19-04
+AYX,"Alteryx, Inc. (AYX)",30.22,32.74,31.85,-2.52,(-7.70%),2023-11-06_19-04
+OGI.TO,Organigram Holdings Inc. (OGI.TO),2.0700,1.5900,2.0900,+0.4800,(+30.19%),2023-11-06_19-04
+XRP-CAD,XRP CAD (XRP-CAD),0.982104,0.903175,0.903175,+0.099968,(+11.33%),2023-11-06_19-05
+CLDX,"Celldex Therapeutics, Inc. (CLDX)",31.52,25.98,32.98,+5.54,(+21.32%),2023-11-06_19-05
+TGLS,Tecnoglass Inc. (TGLS),30.55,34.26,28.82,-3.71,(-10.83%),2023-11-06_19-06
+AXSM,"Axsome Therapeutics, Inc. (AXSM)",66.67,65.14,62.10,+1.53,(+2.34%),2023-11-06_19-06
+LICY,Li-Cycle Holdings Corp. (LICY),1.6950,1.7400,1.8400,-0.0450,(-2.59%),2023-11-06_19-06
+PKX,POSCO Holdings Inc. (PKX),97.16,83.44,96.73,+13.72,(+16.44%),2023-11-06_19-07
+AMC,"AMC Entertainment Holdings, Inc. (AMC)",11.32,10.72,11.00,+0.60,(+5.60%),2023-11-06_19-07
+VERB,"Verb Technology Company, Inc. (VERB)",0.3400,0.2562,0.3070,+0.0838,(+32.71%),2023-11-06_19-07
+ETH-USD,Ethereum USD (ETH-USD),"1,903.25","1,894.03","1,894.03",+26.27,(+1.40%),2023-11-06_19-08

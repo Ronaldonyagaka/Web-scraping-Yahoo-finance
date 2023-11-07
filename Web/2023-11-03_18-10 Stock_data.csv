@@ -1,0 +1,31 @@
+name,Company_name,price,previous_close,open,change,change_percent,date
+AAPL,Apple Inc. (AAPL),175.51,177.57,174.24,-2.06,(-1.16%),2023-11-03
+FTNT,"Fortinet, Inc. (FTNT)",48.07,57.59,44.50,-9.52,(-16.53%),2023-11-03
+SQ,"Block, Inc. (SQ)",49.74,43.98,50.80,+5.76,(+13.10%),2023-11-03
+DKNG,DraftKings Inc. (DKNG),31.33,28.98,30.32,+2.35,(+8.11%),2023-11-03
+BILL,"BILL Holdings, Inc. (BILL)",62.18,89.47,64.05,-27.29,(-30.50%),2023-11-03
+FUBO,fuboTV Inc. (FUBO),2.8199,2.7400,3.0000,+0.0799,(+2.92%),2023-11-03
+NIO,NIO Inc. (NIO),8.07,7.79,8.01,+0.28,(+3.66%),2023-11-03
+EXPE,"Expedia Group, Inc. (EXPE)",110.30,94.84,108.00,+15.46,(+16.30%),2023-11-03
+DOCN,"DigitalOcean Holdings, Inc. (DOCN)",24.81,21.23,26.79,+3.58,(+16.86%),2023-11-03
+IEP,Icahn Enterprises L.P. (IEP),19.45,17.20,18.75,+2.25,(+13.08%),2023-11-03
+NET,"Cloudflare, Inc. (NET)",60.71,56.58,57.47,+4.13,(+7.30%),2023-11-03
+BAC,Bank of America Corporation (BAC),28.33,27.62,28.16,+0.71,(+2.59%),2023-11-03
+PANW,"Palo Alto Networks, Inc. (PANW)",241.33,250.36,244.52,-9.03,(-3.61%),2023-11-03
+TEAM,Atlassian Corporation (TEAM),171.43,181.40,168.24,-9.96,(-5.49%),2023-11-03
+TNON,"Tenon Medical, Inc. (TNON)",1.1800,0.8599,1.4300,+0.3201,(+37.23%),2023-11-03
+MG.TO,Magna International Inc. (MG.TO),76.87,67.37,73.00,+9.50,(+14.10%),2023-11-03
+ENB,Enbridge Inc. (ENB),33.63,33.51,33.90,+0.12,(+0.34%),2023-11-03
+FOXF,Fox Factory Holding Corp. (FOXF),52.11,83.13,58.50,-31.02,(-37.32%),2023-11-03
+HOWL,"Werewolf Therapeutics, Inc. (HOWL)",2.8688,2.1500,2.5300,+0.7188,(+33.43%),2023-11-03
+QSR,Restaurant Brands International Inc. (QSR),66.49,69.09,66.45,-2.60,(-3.76%),2023-11-03
+MGA,Magna International Inc. (MGA),56.09,49.04,53.77,+7.05,(+14.38%),2023-11-03
+CHD,"Church & Dwight Co., Inc. (CHD)",86.24,91.96,85.30,-5.72,(-6.22%),2023-11-03
+NQ=F,Nasdaq 100 Dec 23 (NQ=F),"15,099.75",N/A,2023-12-15,+101.75,(+0.68%),2023-11-03
+GC=F,Gold Dec 23 (GC=F),"2,002.20",N/A,2023-12-27,+8.70,(+0.44%),2023-11-03
+ES=F,E-Mini S&P 500 Dec 23 (ES=F),"4,367.00",N/A,2023-12-15,+31.25,(+0.72%),2023-11-03
+NVOS,"Novo Integrated Sciences, Inc. (NVOS)",0.3061,0.2585,0.3000,+0.0476,(+18.41%),2023-11-03
+YM=F,Mini Dow Jones Indus.-$5 Dec 23 (YM=F),"34,048.00",N/A,2023-12-15,+134.00,(+0.40%),2023-11-03
+CAH,"Cardinal Health, Inc. (CAH)",102.14,93.78,96.27,+8.36,(+8.91%),2023-11-03
+VRTX,Vertex Pharmaceuticals Incorporated (VRTX),379.45,376.55,379.64,+2.90,(+0.77%),2023-11-03
+QSR.TO,Restaurant Brands International Inc. (QSR.TO),91.43,94.98,90.70,-3.55,(-3.74%),2023-11-03

@@ -1,0 +1,31 @@
+name,Company_name,price,previous_close,open,change,change_percent,date
+LI,Li Auto Inc. (LI),39.46,36.36,39.28,+3.10,(+8.53%),2023-11-06_20-03
+LIFW,"MSP Recovery, Inc. (LIFW)",13.69,2.74,3.20,+10.95,(+399.82%),2023-11-06_20-03
+XRP-USD,XRP USD (XRP-USD),0.713342,0.661127,0.661127,+0.064918,(+10.01%),2023-11-06_20-04
+DISH,DISH Network Corporation (DISH),4.2450,5.4900,4.7000,-1.2450,(-22.68%),2023-11-06_20-04
+BRK-B,Berkshire Hathaway Inc. (BRK-B),345.63,351.81,354.03,-6.18,(-1.76%),2023-11-06_20-04
+OGI,Organigram Holdings Inc. (OGI),1.4194,1.1600,1.5200,+0.2594,(+22.36%),2023-11-06_20-05
+MDB,"MongoDB, Inc. (MDB)",328.87,343.11,347.18,-14.24,(-4.15%),2023-11-06_20-05
+CREV,Carbon Revolution Public Limited Ordinary Shares (CREV),73.80,29.32,197.99,+44.48,(+151.71%),2023-11-06_20-05
+AMZN,"Amazon.com, Inc. (AMZN)",139.97,138.60,138.76,+1.37,(+0.99%),2023-11-06_20-05
+RYAAY,Ryanair Holdings plc (RYAAY),98.08,94.29,102.99,+3.79,(+4.02%),2023-11-06_20-06
+BMBL,Bumble Inc. (BMBL),12.95,13.67,12.62,-0.72,(-5.27%),2023-11-06_20-06
+AYX,"Alteryx, Inc. (AYX)",30.30,32.74,31.85,-2.44,(-7.45%),2023-11-06_20-06
+FRPT,"Freshpet, Inc. (FRPT)",69.40,58.25,71.07,+11.15,(+19.14%),2023-11-06_20-07
+MLTX,MoonLake Immunotherapeutics (MLTX),39.00,51.28,36.55,-12.28,(-23.95%),2023-11-06_20-07
+BNTX,BioNTech SE (BNTX),99.78,95.78,101.28,+4.00,(+4.18%),2023-11-06_20-07
+WE,WeWork Inc. (WE),0.8355,0.8355,1.1500,0.0000,(0.00%),2023-11-06_20-07
+SEDG,"SolarEdge Technologies, Inc. (SEDG)",70.10,75.60,75.60,-5.50,(-7.28%),2023-11-06_20-08
+TSLA,"Tesla, Inc. (TSLA)",219.00,219.96,223.98,-0.96,(-0.44%),2023-11-06_20-08
+NVDA,NVIDIA Corporation (NVDA),454.83,450.05,452.85,+4.78,(+1.06%),2023-11-06_20-08
+BVH,Bluegreen Vacations Holding Corporation (BVH),73.00,35.52,72.98,+37.48,(+105.50%),2023-11-06_20-08
+VERB,"Verb Technology Company, Inc. (VERB)",0.3050,0.2562,0.3070,+0.0488,(+19.05%),2023-11-06_20-08
+HGV,Hilton Grand Vacations Inc. (HGV),34.58,37.25,35.00,-2.67,(-7.18%),2023-11-06_20-08
+MSFT,Microsoft Corporation (MSFT),356.42,352.80,353.45,+3.62,(+1.03%),2023-11-06_20-08
+SOFI,"SoFi Technologies, Inc. (SOFI)",7.61,8.01,8.05,-0.40,(-4.93%),2023-11-06_20-09
+LLY,Eli Lilly and Company (LLY),591.48,567.81,571.10,+23.67,(+4.17%),2023-11-06_20-09
+BOIL,ProShares Ultra Bloomberg Natural Gas (BOIL),58.91,66.20,61.10,-7.29,(-11.01%),2023-11-06_20-09
+RIVN,"Rivian Automotive, Inc. (RIVN)",17.17,17.71,18.01,-0.53,(-3.02%),2023-11-06_20-09
+PKX,POSCO Holdings Inc. (PKX),96.51,83.44,96.73,+13.07,(+15.66%),2023-11-06_20-09
+CEG,Constellation Energy Corporation (CEG),124.87,117.07,118.99,+7.80,(+6.67%),2023-11-06_20-09
+APLS,"Apellis Pharmaceuticals, Inc. (APLS)",42.22,46.83,45.93,-4.61,(-9.84%),2023-11-06_20-09
